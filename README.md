@@ -6,4 +6,4 @@ This helped me reinforce my HTML knowledge. It initially contained only basic HT
 
 This project was completed as part of [The Odin Project - Recipes](https://www.theodinproject.com/lessons/foundations-recipes).
 
-[View the live website](https://triqa.github.io/odin-recipes/)
+[View the live website](https://triqa.github.io/odin-recipes/index.html)
